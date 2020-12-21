@@ -8,6 +8,7 @@ const user = {
 };
 
 user.mood = "happy";
+user["full time"] = true;
 user.hobby = "skydiving";
 user.premium = false;
 
